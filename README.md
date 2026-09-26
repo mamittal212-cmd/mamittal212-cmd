@@ -56,16 +56,23 @@ Currently building my problem-solving foundation with C++.
 | Queue       | Learning |
 
 ---
-
 ## LeetCode
 
-Currently solving problems in C++ and practicing consistently.
+<div align="center">
 
-| Metric           | Details                                              |
-| ---------------- | ---------------------------------------------------- |
-| Problems Solved  | 77+                                                  |
-| Primary Language | C++                                                  |
-| Username         | [Manoj_Mittal](https://leetcode.com/u/Manoj_Mittal/) |
+<a href="https://leetcode.com/u/Manoj_Mittal/">
+  <img src="https://leetcard.jacoblin.cool/Manoj_Mittal?theme=dark&font=Karma&ext=heatmap" width="90%"/>
+</a>
+
+<br><br>
+
+**77+ Problems Solved · C++ · Daily Practice**
+
+<br>
+
+<a href="https://leetcode.com/u/Manoj_Mittal/">View LeetCode Profile →</a>
+
+</div>
 
 ## [View LeetCode Profile →](https://leetcode.com/u/Manoj_Mittal/)
 
