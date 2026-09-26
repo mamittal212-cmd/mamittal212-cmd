@@ -117,7 +117,6 @@ Currently building my foundations in Artificial Intelligence and Machine Learnin
 <img src="./profile/top-langs.svg" height="180"/>
 
 </div>
----
 
 ## Connect
 
@@ -128,7 +127,6 @@ Currently building my foundations in Artificial Intelligence and Machine Learnin
 <a href="https://leetcode.com/u/Manoj_Mittal/">LeetCode</a>
 
 </div>
----
 
 <div align="center">
 
