@@ -24,26 +24,20 @@
 
 **Exploring:** AI/ML
 
-## Project Archive
-
-### 01 · SafeRoute
-
-**Safety-focused route navigation web application**
-
-A full-stack navigation application focused on finding safer routes rather than simply the fastest route. Includes interactive maps, destination search, route visualization, location detection, and safer-route selection.
-
-**Tech:** React.js · JavaScript · React Router · Leaflet.js · Node.js · Express.js · MongoDB · REST API
-
-[View Repository →](https://github.com/mamittal212-cmd/women-safe-route)
-
 ---
 
-### 02 · Trackflix
+## Project Archive
 
-**Movie & series tracking web application**
+<div align="center">
 
-A full-stack platform for discovering and tracking movies and series, with authentication, watchlists, reviews, discussions, and TMDB API integration.
+<a href="https://github.com/mamittal212-cmd/women-safe-route">
+  <img src="./assets/projects/saferoute-poster.png" alt="SafeRoute Project" width="100%">
+</a>
 
-**Tech:** React.js · Java · Spring Boot · MySQL · REST API · TMDB API
+<br>
 
-[View Repository →](https://github.com/mamittal212-cmd/Trackflix)
+<a href="https://github.com/mamittal212-cmd/Trackflix">
+  <img src="./assets/projects/trackflix-poster.png" alt="Trackflix Project" width="100%">
+</a>
+
+</div>
