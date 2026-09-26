@@ -1,11 +1,9 @@
 # Manoj Mittal
 
-Computer Science Student | Developer | Problem Solver
+**Computer Science Student · Developer · Problem Solver**
 
-Currently learning:
+DSA · Web Development · AI/ML
 
-- Data Structures & Algorithms
-- Web Development
-- AI/ML
+---
 
-More coming soon...
+> Building projects, solving problems, and learning one system at a time.
