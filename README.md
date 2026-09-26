@@ -14,15 +14,15 @@
 
 ## Tech Stack
 
-**Languages:** C++ · Java · Python · JavaScript
+<div align="center">
 
-**Web:** React
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,react,mysql,git,github" height="48"/>
 
-**Database:** SQL
+<br><br>
 
-**Tools:** Git · GitHub
+**Currently Exploring:** AI / ML
 
-**Exploring:** AI/ML
+</div>
 
 ---
 
@@ -102,11 +102,15 @@ Currently building my foundations in Artificial Intelligence and Machine Learnin
 | AI / ML | Projects and practical applications |
 | Software Engineering | System design and clean code |
 | Open Source | Collaboration and contributions |
----
-
 ## GitHub Activity
 
-Building consistently through projects, problem solving, and continuous learning.
+<div align="center">
+
+<img src="./profile/stats.svg" height="180"/>
+
+<img src="./profile/top-langs.svg" height="180"/>
+
+</div>
 ---
 
 ## Connect
