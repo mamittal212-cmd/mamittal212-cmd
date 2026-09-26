@@ -74,8 +74,6 @@ Currently building my problem-solving foundation with C++.
 
 </div>
 
-## [View LeetCode Profile →](https://leetcode.com/u/Manoj_Mittal/)
----
 
 ## Currently Working On
 
@@ -83,7 +81,6 @@ Currently building my problem-solving foundation with C++.
 - Improving and expanding my projects
 - Building foundations in AI / ML
 - Exploring modern web development
----
 
 ## Collaboration
 
@@ -98,7 +95,6 @@ Currently building my foundations in Artificial Intelligence and Machine Learnin
 - Model fundamentals
 - AI concepts and problem solving
 
----
 
 ## Learning Roadmap
 
