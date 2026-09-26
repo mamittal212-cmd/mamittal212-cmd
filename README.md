@@ -75,14 +75,14 @@ Currently building my problem-solving foundation with C++.
 </div>
 
 ## [View LeetCode Profile →](https://leetcode.com/u/Manoj_Mittal/)
+---
 
 ## Currently Working On
 
 - Daily DSA problem solving in C++
 - Improving and expanding my projects
-- Building my foundations in AI/ML
+- Building foundations in AI / ML
 - Exploring modern web development
-
 ---
 
 ## Collaboration
@@ -121,7 +121,27 @@ Currently building my foundations in Artificial Intelligence and Machine Learnin
 <img src="./profile/top-langs.svg" height="180"/>
 
 </div>
+---
 
 ## Connect
 
-[GitHub](https://github.com/mamittal212-cmd) · [LeetCode](https://leetcode.com/u/Manoj_Mittal/)
+<div align="center">
+
+<a href="https://github.com/mamittal212-cmd">GitHub</a>
+&nbsp; · &nbsp;
+<a href="https://leetcode.com/u/Manoj_Mittal/">LeetCode</a>
+
+</div>
+---
+
+<div align="center">
+
+<sub>
+Somewhere between code and chaos, there's always another problem to solve.
+</sub>
+
+<br><br>
+
+<sub>🃏</sub>
+
+</div>
