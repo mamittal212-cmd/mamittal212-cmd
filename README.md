@@ -2,140 +2,84 @@
 
 # MANOJ MITTAL
 
-### Computer Science Student · Developer · Problem Solver
+### `COMPUTER SCIENCE STUDENT` · `DEVELOPER` · `PROBLEM SOLVER`
 
-**DSA · Web Development · AI/ML**
-
-</div>
-
----
-
-> Building projects, solving problems, and learning one system at a time.
-
-## Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,react,mysql,git,github" height="48"/>
-
-<br><br>
-
-**Currently Exploring:** AI / ML
-
-</div>
-
----
-
-## Project Archive
-
-<div align="center">
-
-<a href="https://github.com/mamittal212-cmd/women-safe-route">
-  <img src="./assets/projects/saferoute-poster.png" alt="SafeRoute Project" width="100%">
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=C8A951&center=true&vCenter=true&width=650&lines=Building+systems%2C+not+just+projects.;Solving+problems+one+algorithm+at+a+time.;Exploring+Web+Development+%7C+AI%2FML.;Learning.+Building.+Breaking.+Improving." alt="Typing animation" />
 
 <br>
 
-<a href="https://github.com/mamittal212-cmd/Trackflix">
-  <img src="./assets/projects/trackflix-poster.png" alt="Trackflix Project" width="100%">
-</a>
-
-## </div>
-
-## DSA / Problem Solving
-
-Currently building my problem-solving foundation with C++.
-
-| Topic       | Status   |
-| ----------- | -------- |
-| Arrays      | Learning |
-| Strings     | Learning |
-| Recursion   | Learning |
-| Stack       | Learning |
-| Linked List | Learning |
-| Queue       | Learning |
-
----
-## LeetCode
-
-<div align="center">
-
-<a href="https://leetcode.com/u/Manoj_Mittal/">
-  <img src="https://leetcard.jacoblin.cool/Manoj_Mittal?theme=dark&font=Karma&ext=heatmap" width="90%"/>
-</a>
+`DSA` &nbsp;·&nbsp; `WEB DEVELOPMENT` &nbsp;·&nbsp; `AI / ML`
 
 <br><br>
 
-**77+ Problems Solved · C++ · Daily Practice**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0F12&height=2&section=header" width="85%"/>
+
+</div>
 
 <br>
 
-<a href="https://leetcode.com/u/Manoj_Mittal/">View LeetCode Profile →</a>
-
-</div>
-
-
-## Currently Working On
-
-- Daily DSA problem solving in C++
-- Improving and expanding my projects
-- Building foundations in AI / ML
-- Exploring modern web development
-
-## Collaboration
-
-## Interested in building projects with other developers, contributing to open-source, and working on practical ideas.
-
-## AI / ML
-
-Currently building my foundations in Artificial Intelligence and Machine Learning.
-
-- Machine Learning fundamentals
-- Python for data and experimentation
-- Model fundamentals
-- AI concepts and problem solving
-
-
-## Learning Roadmap
-
-| Area                 | Focus                               |
-| -------------------- | ----------------------------------- |
-| DSA                  | Advanced problem solving            |
-| Web Development      | Full-stack development              |
-| AI / ML              | Projects and practical applications |
-| Software Engineering | System design and clean code        |
-| Open Source          | Collaboration and contributions     |
+> **BUILD. BREAK. LEARN. REPEAT.**
+>
+> A Computer Science student building practical software, strengthening problem-solving skills, and exploring the intersection of web development and AI/ML.
 
 ---
 
-## GitHub Activity
-
 <div align="center">
 
-<img src="./profile/stats.svg" height="180"/>
+### `// SYSTEM STATUS`
 
-<img src="./profile/top-langs.svg" height="180"/>
+| SYSTEM | STATUS |
+|---|---|
+| DSA / Problem Solving | `ACTIVE` |
+| Web Development | `BUILDING` |
+| AI / ML | `EXPLORING` |
+| Open Source | `INCOMING` |
+| New Ideas | `ALWAYS RUNNING` |
 
 </div>
 
-## Connect
+---
 
-<div align="center">
+## `01` — CASE FILE
 
-<a href="https://github.com/mamittal212-cmd">GitHub</a>
-&nbsp; · &nbsp;
-<a href="https://leetcode.com/u/Manoj_Mittal/">LeetCode</a>
+<table>
+<tr>
+<td width="55%">
 
-</div>
+### About Me
 
-<div align="center">
+I'm a Computer Science student focused on turning ideas into working software.
 
-<sub>
-Somewhere between code and chaos, there's always another problem to solve.
-</sub>
+My current path revolves around three things:
 
-<br><br>
+- **Problem solving** through Data Structures & Algorithms
+- **Building products** through modern web development
+- **Exploring intelligence** through AI / Machine Learning
 
-<sub>🃏</sub>
+I enjoy learning by actually building things — experimenting, debugging, breaking systems, and figuring out why they work.
 
-</div>
+</td>
+
+<td width="45%">
+
+```text
+┌──────────────────────────────┐
+│       DEVELOPER FILE         │
+├──────────────────────────────┤
+│                              │
+│ NAME                         │
+│ Manoj Mittal                 │
+│                              │
+│ DOMAIN                       │
+│ Computer Science             │
+│                              │
+│ FOCUS                        │
+│ DSA · Web · AI/ML            │
+│                              │
+│ MODE                         │
+│ BUILDING                     │
+│                              │
+│ OBJECTIVE                    │
+│ Keep getting better.         │
+│                              │
+└──────────────────────────────┘
